@@ -34,6 +34,7 @@
     "react/jsx-props-no-spreading": "off",
     "import/no-extraneous-dependencies": "off",
     "better-styled-components/sort-declarations-alphabetically": 2,
+    "import/no-unused-modules": [2, {"unusedExports": true, "missingExports": true}],
     "react/self-closing-comp": "off",
     "react/prop-types": "off",
     "no-nested-ternary": "off",
