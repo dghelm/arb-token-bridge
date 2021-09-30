@@ -1,6 +1,7 @@
 {
-  "short_name": "Arb Bridge",
-  "name": "Arbitrum Token Bridge",
+  "short_name": "Arb Bridge UNOFFICIAL",
+  "name": "Arbitrum Token Bridge UNOFFICIAL",
+  "description": "",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,5 +12,6 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "skylink": "AQDhEMjRuvKdECC_cibQ-fUUm7RjRjiZyXotgc2UGFAmuA"
 }
