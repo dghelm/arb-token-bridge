@@ -19,7 +19,7 @@ jobs:
       - name: 'Build App'
         run: yarn build
         env:
-          INFURA_KEY: ${{ secrets.INFURA_KEY }}
+          REACT_APP_INFURA_KEY: ${{ secrets.INFURA_KEY }}
 
       - name: 'Deploy to Skynet'
         uses: SkynetLabs/deploy-to-skynet-action@main
